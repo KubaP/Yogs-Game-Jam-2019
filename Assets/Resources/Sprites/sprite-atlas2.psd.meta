@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 3eaa7fde09ee6be4096b2c485e2e6194
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1914861880973199682
+    second: person_m_face0
+  - first:
+      213: -8278805236900095279
+    second: person_m_hair0
+  - first:
+      213: 105502404905772244
+    second: person_m_hair1
+  - first:
+      213: -1430505561616993219
+    second: person_m_acc0
+  - first:
+      213: 5968785721019029349
+    second: person_m_acc1
+  - first:
+      213: -4897701494705764003
+    second: person_m_torso0
+  - first:
+      213: 8845342194599184585
+    second: person_m_torso1
+  - first:
+      213: 122060839399004805
+    second: person_m_torso2
+  - first:
+      213: 1204006193569789953
+    second: person_f_face0
+  - first:
+      213: -6076160072652309096
+    second: person_f_hair0
+  - first:
+      213: -4446314848186004025
+    second: person_f_hair1
+  - first:
+      213: -1787721050701532129
+    second: person_f_acc0
+  - first:
+      213: 8135842687980552858
+    second: person_f_torso0
+  - first:
+      213: -6340683869200467757
+    second: person_f_torso1
+  - first:
+      213: 2712115527607410807
+    second: person_m_hair2
+  - first:
+      213: -502279501155571519
+    second: person_m_hair3
+  - first:
+      213: 412039890725832053
+    second: person_m_hair5
+  - first:
+      213: -4034692597541286770
+    second: person_m_hair4
+  - first:
+      213: -6164035478883331651
+    second: person_m_hair6
+  - first:
+      213: 5458879692320501434
+    second: person_m_hair7
+  - first:
+      213: 9051085481749681681
+    second: person_m_hair8
+  - first:
+      213: 6533825869388503178
+    second: person_m_hair9
+  - first:
+      213: -7831846780067685209
+    second: person_f_hair2
+  - first:
+      213: -5747065204299139872
+    second: person_f_hair3
+  - first:
+      213: -6863471856859726383
+    second: person_f_hair4
+  - first:
+      213: -1637863146228606866
+    second: person_f_hair5
+  - first:
+      213: -4733352497924731117
+    second: person_f_hair6
+  - first:
+      213: 2928443623476310886
+    second: person_f_hair7
+  - first:
+      213: -2012217596062725200
+    second: person_f_hair8
+  - first:
+      213: -7223335608946991142
+    second: person_f_hair9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: person_m_face0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 923
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66331e9e92d3f54a900b430ede5eb05
+      internalID: 1914861880973199682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 923
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40a880a01f6c2d4090d948fdd63d3fa
+      internalID: -8278805236900095279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 923
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b95375e351456c4bb7421dcff83a2ae
+      internalID: 105502404905772244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_acc0
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 923
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3da74bee564dd044986854909389c52
+      internalID: -1430505561616993219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_acc1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 923
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e490a401f3ac9343a691138315afb3b
+      internalID: 5968785721019029349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_torso0
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 923
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b300cff566e49d468f4d977fbfc9cc0
+      internalID: -4897701494705764003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_torso1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 923
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32628b7a20b8816468e0a2d3a21100b2
+      internalID: 8845342194599184585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_torso2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 923
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81a34b8897d8f4dbd25ba18b5f688a
+      internalID: 122060839399004805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_face0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 836
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7a29a16475794abc808a1c80eb8a5
+      internalID: 1204006193569789953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 836
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4bb4f361a605747bca4a269f0ff8cd
+      internalID: -6076160072652309096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 836
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bbac8ed7660f249a8ac7640a299063
+      internalID: -4446314848186004025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_acc0
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 836
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c61374309eb3f4c9e0635e399e9087
+      internalID: -1787721050701532129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_torso0
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 836
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770a627be33ed2d4192ed267212bdbfe
+      internalID: 8135842687980552858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_torso1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 836
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf86d58fe8bee7449b6eb28f9affcf3
+      internalID: -6340683869200467757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 746
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933224d755f7dc749b3d0a3b1ed01c05
+      internalID: 2712115527607410807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 746
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea7e0c124e96246a6d004d40f19af9
+      internalID: -502279501155571519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 661
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d5a3c4506597b429c892b97daa0f01
+      internalID: 412039890725832053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 661
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430291ef596a55344a1d6d84f47e097b
+      internalID: -4034692597541286770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 576
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40675f73bf42a7d48b19d53eadd2d66a
+      internalID: -6164035478883331651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 576
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1577102030e1b2a4b89e453d7f2869e8
+      internalID: 5458879692320501434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 491
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e8f7658818ec4698e00fe331f7b07
+      internalID: 9051085481749681681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_m_hair9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 491
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd21a27e05f8504e908f8f7f13b5b9b
+      internalID: 6533825869388503178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 406
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f774e1656520340a701cbc34cee75f
+      internalID: -7831846780067685209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 406
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9101d7ea5aaa47e4e8ba8f52ef92622b
+      internalID: -5747065204299139872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 321
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e3879dbdbfa3489a715c95bcb058e
+      internalID: -6863471856859726383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 321
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c2e404e50a3ae40ac2511b756f8849
+      internalID: -1637863146228606866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 236
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1620bfe10af0e041af032ab2307163d
+      internalID: -4733352497924731117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 236
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910e5f7af327c2408f831f25cf305fe
+      internalID: 2928443623476310886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 151
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c630d00d6c4fff4499fcf37672bfb77
+      internalID: -2012217596062725200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_f_hair9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 151
+        width: 63
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9546ea3f52164880b341dbc7c2f94
+      internalID: -7223335608946991142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

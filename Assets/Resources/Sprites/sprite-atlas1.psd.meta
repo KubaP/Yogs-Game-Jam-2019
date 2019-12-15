@@ -1,0 +1,1219 @@
+fileFormatVersion: 2
+guid: ab851c2e7809bb54e9611f6914061642
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5873823322964615954
+    second: background_desk
+  - first:
+      213: 3527375097523301502
+    second: item_handbook_shadow
+  - first:
+      213: -3177834005914955209
+    second: item_visa
+  - first:
+      213: -5679132988190513975
+    second: item_passport_gb
+  - first:
+      213: -2195037979433502013
+    second: item_passport_fr
+  - first:
+      213: -3152506883552822923
+    second: item_passport_de
+  - first:
+      213: -6635599223600306346
+    second: item_passport_pl
+  - first:
+      213: 9173886668970259286
+    second: item_passport_ch
+  - first:
+      213: -8256699675592962356
+    second: button_deny
+  - first:
+      213: 4649574119238698854
+    second: button_accept
+  - first:
+      213: -568625310456765759
+    second: passport_01
+  - first:
+      213: 118122005513370663
+    second: background
+  - first:
+      213: 4275312997297405538
+    second: item_passport_shadow
+  - first:
+      213: -3340194283574746014
+    second: item_passport_gb_fake
+  - first:
+      213: 588223103147899119
+    second: item_passport_fr_fake
+  - first:
+      213: -6721477329523665740
+    second: item_passport_de_fake
+  - first:
+      213: -7116318896154161143
+    second: item_passport_pl_fake
+  - first:
+      213: -7429308571516199550
+    second: item_passport_ch_fake
+  - first:
+      213: -2207509563014048578
+    second: item_passport_gb_torn
+  - first:
+      213: 4907729190705497392
+    second: item_passport_fr_torn
+  - first:
+      213: 8333902233433009971
+    second: item_passport_de_torn
+  - first:
+      213: -7408401432564535309
+    second: item_passport_pl_torn
+  - first:
+      213: -5700797603308470341
+    second: item_passport_ch_torn
+  - first:
+      213: -3621998323744417480
+    second: item_passport_torn_shadow
+  - first:
+      213: 3527375097523301502
+    second: item_handbook
+  - first:
+      213: -1998002059943005651
+    second: item_visa_shadow
+  - first:
+      213: 1718532525884634873
+    second: visa
+  - first:
+      213: -1359849771258663422
+    second: handbook
+  - first:
+      213: 5604147216440957921
+    second: button_deny_click
+  - first:
+      213: -1154171263310751476
+    second: button_accept_click
+  - first:
+      213: -2231504456608817142
+    second: visa_stamp1
+  - first:
+      213: -6424447437671489585
+    second: visa_stamp1_fake
+  - first:
+      213: 4208819321264053720
+    second: visa_stamp0
+  - first:
+      213: -7080497651265566342
+    second: visa_stamp0_fake
+  - first:
+      213: -352176004137427754
+    second: radio
+  - first:
+      213: 356307225094990265
+    second: scanner_body
+  - first:
+      213: 4138127198752116223
+    second: scanner_glass
+  - first:
+      213: 5868725777427214606
+    second: ui_panel
+  - first:
+      213: 4783698248521866571
+    second: passport_stamp0
+  - first:
+      213: 5613113199494197352
+    second: passport_stamp0_fake0
+  - first:
+      213: -2316158084389967819
+    second: passport_stamp0_fake1
+  - first:
+      213: -831028269035215488
+    second: passport_stamp1
+  - first:
+      213: -5492424571459932768
+    second: passport_stamp1_fake0
+  - first:
+      213: -7551769984276843936
+    second: passsport_stamp1_fake1
+  - first:
+      213: 4119490362307273273
+    second: note
+  - first:
+      213: -8876784474563605483
+    second: airport_logo
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_desk
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 192
+        width: 1142
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a0e6a5f4c7bab42863017a54c6df1f
+      internalID: -5873823322964615954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_handbook_shadow
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 744
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a6b6df16842440b2ce96d1eba7dd7
+      internalID: 3527375097523301502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_visa
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 819
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7015f1149df54ad4b9df4ad9f7d2de90
+      internalID: -3177834005914955209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_gb
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 989
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b447cec21751a0548b8de090321cd363
+      internalID: -5679132988190513975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_fr
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 989
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7f1c627c305ee4d98a63d33f6b1e96
+      internalID: -2195037979433502013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_de
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 989
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6302f1becf3e42b0c07355fcbe02c
+      internalID: -3152506883552822923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_pl
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 989
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f145b4aa2ef6ab49ad3e1ad0fcf5524
+      internalID: -6635599223600306346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_ch
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 989
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7712f6bc930dad4a89356d98fa5099e
+      internalID: 9173886668970259286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_deny
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 132
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581f58ed154805a448e0aab4d3bbfd39
+      internalID: -8256699675592962356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_accept
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 132
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb32de429f9528142b8567c43467f4e0
+      internalID: 4649574119238698854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: passport_01
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 862
+        width: 121
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef285008e16a6947b3108978c2e9f6e
+      internalID: -568625310456765759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 724
+        width: 1142
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58ea719d48ffa4a9db99e95883691b
+      internalID: 118122005513370663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_shadow
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 989
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d5a66cc374302408c595128a3deb7a
+      internalID: 4275312997297405538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_gb_fake
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 962
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7991bc5ae04c3544e8f28f953cbc56bb
+      internalID: -3340194283574746014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_fr_fake
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 962
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b7c79eacb52204caa582f4e28baa93
+      internalID: 588223103147899119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_de_fake
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 962
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73e8894ebc319144b1eacc6c8b111f5
+      internalID: -6721477329523665740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_pl_fake
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 962
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f494b7da4c3c9d64b9e89830216ca344
+      internalID: -7116318896154161143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_ch_fake
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 962
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ce69ea8e084340afc6d05268e756c
+      internalID: -7429308571516199550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_gb_torn
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 936
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c1ceea92e0bda41b099f7b6bb67923
+      internalID: -2207509563014048578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_fr_torn
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 936
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece28474c33e8741b239a8165680e60
+      internalID: 4907729190705497392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_de_torn
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 936
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aee124f4dd273418f384da099bf915
+      internalID: 8333902233433009971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_pl_torn
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 936
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb072cb466a64b46ba8c2b722000f65
+      internalID: -7408401432564535309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_ch_torn
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 936
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfb3a3a6d355a84692c616cbabebbf2
+      internalID: -5700797603308470341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_passport_torn_shadow
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 936
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f94404768d8b4684c28e3a6aafd9e
+      internalID: -3621998323744417480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_handbook
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 744
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac85549628750f341b31e192033f76be
+      internalID: 3527375097523301502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_visa_shadow
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 819
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241750ba116a5249872401757dafe0b
+      internalID: -1998002059943005651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visa
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 607
+        width: 232
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c35d63076161154898ceca5bd4aee4e
+      internalID: 1718532525884634873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handbook
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 355
+        width: 231
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343e88294db34fe46ad0f81e53fd9f02
+      internalID: -1359849771258663422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_deny_click
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 69
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a86fba0428dfab439d15d7824412124
+      internalID: 5604147216440957921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_accept_click
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 69
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678216f363e02d24cbc818aa5daa4bc9
+      internalID: -1154171263310751476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visa_stamp1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 759
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d155eb5428a3144c892fa47d06355a8
+      internalID: -2231504456608817142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visa_stamp1_fake
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 760
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343c76121b3dd1f409bb2f6080a72abc
+      internalID: -6424447437671489585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visa_stamp0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 738
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d46ef20d29784478d72d6f9921bf41
+      internalID: 4208819321264053720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visa_stamp0_fake
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 738
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390dd9c954d83304c907b25108cdbac6
+      internalID: -7080497651265566342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 299
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5673f727e36b643b3187246be62548
+      internalID: -352176004137427754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanner_body
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 109
+        width: 403
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0542b3710b1c24b4a80c7744915ddefe
+      internalID: 356307225094990265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanner_glass
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 712
+        width: 334
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ed667bb6bdb94389c711ad1d1f35e
+      internalID: 4138127198752116223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_panel
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 77
+        width: 117
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c461ba0348a43cd4381f2b62a1f40abd
+      internalID: 5868725777427214606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: passport_stamp0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 306
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b57a269d747a146ae5405e7ee87f82
+      internalID: 4783698248521866571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: passport_stamp0_fake0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 306
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051b67e38f913154a9ccbf38e32d0c91
+      internalID: 5613113199494197352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: passport_stamp0_fake1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 306
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d31272fe914d40b94af45a91a21cf
+      internalID: -2316158084389967819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: passport_stamp1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 289
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17452ad728312534a84bc3f153f315a9
+      internalID: -831028269035215488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: passport_stamp1_fake0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 289
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5315b53a4a5c1b3438592b561c7ba438
+      internalID: -5492424571459932768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: passsport_stamp1_fake1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 289
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beda9e6693223e4c996d973fa79deb1
+      internalID: -7551769984276843936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 211
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386d749b7a30bfd47b8b2f6f4413db63
+      internalID: 4119490362307273273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airport_logo
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 91
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10478d8f9b98e45aa5db5f97b68093
+      internalID: -8876784474563605483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ef40eef5ad1347468de62ced07946ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

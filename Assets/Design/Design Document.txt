@@ -1,0 +1,32 @@
+
+- Game Design
+	Papers Please Clone
+		- People come to border
+		- People have passports checked
+		- Let them into the country or no
+		
+		
+- Setting
+	- Set in Manchester Airport
+	- Run by Pigeons?
+	
+	
+- Graphics
+	- Need a variety of people
+		- Different races
+		- Different hair types
+		- Different facial expressions
+	- Accesory items (hats, glasses, facial hair, etc..)
+	- Airport booth
+	- Airport UI / buttons
+	- Airport background
+		- Airport lounge view kind of thing
+	
+	
+- Sounds	
+	-Background airport chatter (indistinguishable words) (loopable)
+	-Intercom sounds (bing bong + indistinuishable words)
+	-Faint background plane take-off effect
+	-Faint hum of a/c (loopable)
+	-Metal detector noise
+	-Voice lines (made up) (like from sims)
