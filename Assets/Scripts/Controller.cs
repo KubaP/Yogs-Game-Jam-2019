@@ -74,6 +74,9 @@ public class Controller : MonoBehaviour
     public List<VisaData> validVisas;
 
 
+    public Slider difficultySlider;
+
+
 
     // Start is called before the first frame update
     void Start()
@@ -378,7 +381,7 @@ public class Controller : MonoBehaviour
                 // Do nothing
                 break;
             case State.NewPerson:
-                NewPerson(!(Random.Range(0,4) == 0));
+                NewPerson(!(Random.Range(0.0f, 1.0f) < (difficultySlider.value * 0.5f)));
                 break;
             case State.PersonComing:
                 MovePerson();
